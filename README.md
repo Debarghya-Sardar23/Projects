@@ -8,3 +8,4 @@ c) pip install openai
 d) pip install PyAudio
 
 For running the program smoothly without getting any errors please install these modules , if not previously installed.
+ 
